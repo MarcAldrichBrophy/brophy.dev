@@ -399,12 +399,17 @@ section {
     transform: translateY(-13px); }
 
 .progress-bar {
-  background-color: #ff00cc; }
+  background-color: #a6190f; }
 
 /*=====  End of FEATURES  ======*/
 /*=============================
 =            TESTI            =
 =============================*/
+
+.my-5 {
+  border-radius: 15px;
+}
+
 .testi-img img {
   height: 60px;
   width: 60px !important;
